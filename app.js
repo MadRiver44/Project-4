@@ -6,7 +6,9 @@ import {
   Platform,
   ListView,
   Keyboard,
+  Linear
 } from 'react-native';
+import LinearGradient from 'react-native-linear-gradient';
 import Header from './header';
 import Footer from './footer';
 import Row from './row';
