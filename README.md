@@ -42,10 +42,10 @@ was related to an infinite loop in filtering and conditional component rendering
 
 ### 6. Tech Stack
 
-.. React Native
-.. es6
-.. Redux *(learned in dev, implemented in dev, scrapped in production)
-.. Async Storage *(learned in dev, implemented in dev, scrapped in production)
+    React Native
+    es6
+    Redux *(learned in dev, implemented in dev, scrapped in production)
+    Async Storage *(learned in dev, implemented in dev, scrapped in production)
 
 
 
