@@ -1,3 +1,6 @@
+// this is our entry point for IOS, App is our 'root'
+// component that we export to AppRegistry. Essentially
+// we feed all our data and logic through App
 import {
   AppRegistry
 } from 'react-native';

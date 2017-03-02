@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4CD99EA61E6726C00077D9ED /* AwesomeTodo */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AwesomeTodo; path = ..; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4CD99E9F1E670B810077D9ED = {
+			isa = PBXGroup;
+			children = (
+				4CD99EA61E6726C00077D9ED /* AwesomeTodo */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4CD99EA01E670B810077D9ED /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+			};
+			buildConfigurationList = 4CD99EA31E670B810077D9ED /* Build configuration list for PBXProject "Awesome Todo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4CD99E9F1E670B810077D9ED;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4CD99EA41E670B810077D9ED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4CD99EA51E670B810077D9ED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4CD99EA31E670B810077D9ED /* Build configuration list for PBXProject "Awesome Todo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CD99EA41E670B810077D9ED /* Debug */,
+				4CD99EA51E670B810077D9ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4CD99EA01E670B810077D9ED /* Project object */;
+}

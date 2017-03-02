@@ -45,6 +45,11 @@ class App extends Component {
  this.handleUpdateText = this.handleUpdateText.bind(this)
 }
 
+/*
+destructuring and terseness of code (such as if statement without {} )
+is a very common pattern I've seen in React Native development
+ */
+
 // helper func,
 setSource(items, itemsDatasource, otherState = {}) {
   this.setState({
@@ -179,7 +184,11 @@ handleAddItem(){
       )
   }
 }
-
+/*
+we define a var and set it equal to a StyleSheet component objectusing the create method.
+This validates our css in React Native. Fromm here we pass the object.defined style to the
+React component
+*/
 const styles = StyleSheet.create({
   container: {
     flex: 1,

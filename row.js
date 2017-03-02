@@ -14,8 +14,7 @@ class Row extends Component {
     const { complete } = this.props;
 
     const textComponent = (
-      // <TouchableOpacity style={styles.textWrap} onLongPress={() => this.props.onToggleEdit(true)}>
-      // </TouchableOpacity>
+
       <TouchableOpacity style={styles.textWrap} onLongPress={() => this.props.onToggleEdit(true)} >
         <Text style={[styles.text, complete && styles.complete]}>{this.props.text}</Text>
        </TouchableOpacity>
@@ -114,5 +113,4 @@ const styles = StyleSheet.create({
 
 
 export default Row;
-            // {this.props.editing ? editingComponent : textComponent}
-            // {this.props.editing ? doneButton : removeButton}
+
