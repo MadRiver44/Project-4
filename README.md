@@ -1,6 +1,7 @@
 # Awesome Todo App
 ## Starring __**React Native!**__
 
+![all items](https://cloud.githubusercontent.com/assets/7386478/23509352/723accda-ff23-11e6-97f0-d2190b7e0deb.png)
 
 To install..
 
