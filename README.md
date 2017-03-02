@@ -1,5 +1,19 @@
 # Awesome Todo App
-## starring __**React Native!**__
+## Starring __**React Native!**__
+
+
+To install..
+    Download https://developer.apple.com/xcode/
+    Download https://developer.android.com/studio/index.html
+
+Instructions
+    https://facebook.github.io/react-native/docs/getting-started.html
+
+    Follow this video on egghead.io for setup,***Extremeely Helpful*** 
+    https://egghead.io/lessons/react-setup-react-native-for-ios-and-android
+
+When your environment is set up
+    npm install
 
 
 ### 1. Problem Statement
@@ -18,13 +32,13 @@ Currently, this a robust IOS/ Android capable "to do" app that has full Create, 
 
 ### 4. Features
 
-The lower tabs are a filtering mechanism to sort between all tasks, completed ones, and those that are still active.
+    The lower tabs are a filtering mechanism to sort between all tasks, completed ones, and those that are still active.
 
 
- To add - simply type in the upper text field
- To edit - hover over the task and press down continuously till the text field expands
- To delete - click the X next to item
- To complete - toggle the switch to strike though item
+    To add - simply type in the upper text field
+    To edit - hover over the task and press down continuously till the text field expands
+    To delete - click the X next to item
+    To complete - toggle the switch to strike though item
 
 ### 5. App Development and insights
 
@@ -46,6 +60,10 @@ was related to an infinite loop in filtering and conditional component rendering
     es6
     Redux *(learned in dev, implemented in dev, scrapped in production)
     Async Storage *(learned in dev, implemented in dev, scrapped in production)
+
+### 7. Future Development
+
+Phase 2 is adding geolocation with current position with scene to scene navigation.
 
 
 
