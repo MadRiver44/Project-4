@@ -12,7 +12,8 @@ Instructions
 
 https://facebook.github.io/react-native/docs/getting-started.html
 
-Follow this video on egghead.io for setup,***Extremeely Helpful*** 
+Follow this video on egghead.io for setup, ***Extremely Helpful*** 
+
 https://egghead.io/lessons/react-setup-react-native-for-ios-and-android
 
 When your environment is set up
