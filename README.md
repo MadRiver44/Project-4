@@ -4,13 +4,13 @@
 
 ### 1. Problem Statement
 
-    We are always in motion. When we are in motion, we tend to forget things alond the way.
-    How can we remember to do something while on the go. 
+We are always in motion. When we are in motion, we tend to forget things alond the way.
+How can we remember to do something while on the go. 
 
 ### 2. Solution
 
-    This is a well executed phase one of a geoloaction based to do mobile app. The solution is to 
-    have an app that detects where you are in your travels and sends a reminder to do what is on your list as you approach an opportunity to complete a task. For example, one can set a "to do" to buy milk on the way home from the supermarket. As the user is close to home, a preset is triggered to alert the user that they are within a set distance to the supermarket. Or, when one is on vacation, there will be alerts to remind the user to visit a certain place or buy a particular item. 
+This is a well executed phase one of a geoloaction based to do mobile app. The solution is to 
+have an app that detects where you are in your travels and sends a reminder to do what is on your list as you approach an opportunity to complete a task. For example, one can set a "to do" to buy milk on the way home from the supermarket. As the user is close to home, a preset is triggered to alert the user that they are within a set distance to the supermarket. Or, when one is on vacation, there will be alerts to remind the user to visit a certain place or buy a particular item. 
 
 ### 3. Current Development of this app
 
