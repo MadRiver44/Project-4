@@ -70,7 +70,8 @@ was related to an infinite loop in filtering and conditional component rendering
 
 Phase 2 is adding geolocation with current position with scene to scene navigation.
 
-
+### Emulator
+https://appetize.io/app/9ack7kqn0t6phbtrrkffgjave4?device=iphone5s&scale=75&orientation=portrait&osVersion=9.3
 
 
 
